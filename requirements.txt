@@ -1,0 +1,4 @@
+Flask
+networkx
+gunicorn
+google-genai
